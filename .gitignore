@@ -1,0 +1,102 @@
+# Visual Studio files
+.vscode/
+.vs/
+WPFChatApp/bin/
+WPFChatApp/obj/
+Server/bin/
+Server/obj/
+UnitTests/obj/
+UnitTests/bin/
+/.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+packages/
+*.nupkg
+debug/
+release/
+*.pdb
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+Desktop.ini
+Desktop.ini
+IconCache.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Logs
+*.log
+
+# Visual Studio user options file
+*.suo
+
+# User-specific files
+*.user
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.suo
+*.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Node.js
+node_modules/
+npm-debug.log
