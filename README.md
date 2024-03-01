@@ -9,4 +9,4 @@ Assignment made by me and my friend: https://github.com/Stefsk-glitch
 6.8 / 10
 
 ## Date
-Year 2 Period 1 | October 20, 2023 11:59pm
+Year 2 Period 1 | October 20, 2023
